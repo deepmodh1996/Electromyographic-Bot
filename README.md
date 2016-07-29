@@ -1,8 +1,7 @@
 # Electromyographic-Bot
-Gesture Recognition using Electromayography.
 
 
-Electrical Activity produced by hand muscles are recorded.
+We record Electrical Activity produced by hand muscles.
 
 Data is processed in MATLAB along with Arduino.
 
