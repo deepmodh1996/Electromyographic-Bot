@@ -11,4 +11,6 @@ Using this data Gesture of hand is recognised.
 To have more control of motion of bot, we created Accelerometer and Gyroscope.
 We created our own Electromyography(EMG) circuit.
 
+![Refer to image_1.png](https://raw.githubusercontent.com/deepmodh1996/Electromyographic-Bot/master/image_1.png)
+
 Refer to Project Report for more details.
